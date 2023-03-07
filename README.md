@@ -1,6 +1,6 @@
 # Aprendizado federado no Azure ML
 
-Federated Learning (FL) is a framework where one trains a single ML model on distinct datasets that cannot be gathered in a single central location. This enables companies and institutions to comply with regulations related to data location and data access while allowing for innovation and personalization.
+Federated Learning (FL) é uma estrutura em que se treina um único modelo ML em conjuntos de dados distintos que não podem ser coletados em um único local central. Isso permite que empresas e instituições cumpram os regulamentos relacionados à localização e acesso de dados, permitindo inovação e personalização.
 
 This repo provides some code samples for running a federated learning pipeline in the Azure Machine Learning platform.
 
