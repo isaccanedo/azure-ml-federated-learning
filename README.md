@@ -7,7 +7,7 @@ Este repositório fornece alguns exemplos de código para executar um pipeline d
 :warning: Running a full federated learning pipeline raises **security questions that you need to address** before using this repository for production purpose. Please consider this repository as a sample only.
 
 
-## Table of contents
+## Índice
 
 - [Getting started](#zap-getting-started)
 - [Documentation](#documentation)
