@@ -4,7 +4,7 @@ Federated Learning (FL) é uma estrutura em que se treina um único modelo ML em
 
 Este repositório fornece alguns exemplos de código para executar um pipeline de aprendizado federado na plataforma Azure Machine Learning.
 
-:warning: Running a full federated learning pipeline raises **security questions that you need to address** before using this repository for production purpose. Please consider this repository as a sample only.
+:warning: A execução de um pipeline de aprendizado federado completo levanta **questões de segurança que você precisa abordar** antes de usar este repositório para fins de produção. Considere este repositório apenas como uma amostra.
 
 
 ## Índice
