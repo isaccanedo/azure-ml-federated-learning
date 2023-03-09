@@ -14,7 +14,7 @@ Este repositório fornece alguns exemplos de código para executar um pipeline d
 - [Support](#need-support)
 - [Contributing](#contributing)
 
-### :zap: Getting Started
+### :zap: Começando
 
 Sem tempo para ler? Acesse diretamente o [**início rápido**](./docs/quickstart.md) para provisionar uma demonstração em minutos em sua própria assinatura.
 
