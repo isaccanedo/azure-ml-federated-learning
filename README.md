@@ -18,7 +18,7 @@ Este repositório fornece alguns exemplos de código para executar um pipeline d
 
 Sem tempo para ler? Acesse diretamente o [**início rápido**](./docs/quickstart.md) para provisionar uma demonstração em minutos em sua própria assinatura.
 
-### Real world examples
+### Exemplos do mundo real
 
 Please also check our industry use cases below.
 
