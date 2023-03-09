@@ -16,7 +16,7 @@ Este repositório fornece alguns exemplos de código para executar um pipeline d
 
 ### :zap: Getting Started
 
-No time to read? Get directly to the [**quickstart**](./docs/quickstart.md) to provision a demo within minutes in your own subscription.
+Sem tempo para ler? Acesse diretamente o [**início rápido**](./docs/quickstart.md) para provisionar uma demonstração em minutos em sua própria assinatura.
 
 ### Real world examples
 
