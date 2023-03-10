@@ -20,7 +20,7 @@ Sem tempo para ler? Acesse diretamente o [**início rápido**](./docs/quickstart
 
 ### Exemplos do mundo real
 
-Please also check our industry use cases below.
+Verifique também nossos casos de uso do setor abaixo.
 
 | Medical Imaging | Named Entity Recognition | Fraud Detection |
 | :-: | :-: | :-: |
