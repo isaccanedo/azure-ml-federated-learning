@@ -35,7 +35,7 @@ Please find a full documentation of this project [**here**](docs/README.md).
 
 Verifique o [**guia de solução de problemas**](./docs/tsg.md) para possíveis soluções. Se você não conseguir encontrar uma solução, abra um problema neste repositório.
 
-If you have any feature requests, technical questions, or find any bugs, please do not hesitate to reach out to us.
+Se você tiver alguma solicitação de recurso, perguntas técnicas ou encontrar algum bug, não hesite em entrar em contato conosco.
 
 For bug reports and feature requests, you are welcome to open an [**issue**](https://github.com/Azure-Samples/azure-ml-federated-learning/issues).
 
