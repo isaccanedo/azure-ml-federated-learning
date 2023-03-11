@@ -31,7 +31,7 @@ Verifique também nossos casos de uso do setor abaixo.
 
 Please find a full documentation of this project [**here**](docs/README.md).
 
-### Need Support?
+### Precisa de suporte?
 
 Please check the [**troubleshooting guide**](./docs/tsg.md) for possible solutions. If you are unable to find a solution, please open an issue in this repository.
 
