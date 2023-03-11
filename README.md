@@ -27,7 +27,7 @@ Verifique também nossos casos de uso do setor abaixo.
 | [![](./docs/pics/industry-medical-imaging.png)](./docs/real-world-examples/pneumonia.md) | [![](./docs/pics/industry-ner.png)](./docs/real-world-examples/ner.md) | [![](./docs/pics/industry-fraud-detection.png)](./docs/real-world-examples/ccfraud.md) |
 | [pneumonia.md](./docs/real-world-examples/pneumonia.md) | [ner.md](./docs/real-world-examples/ner.md) | [ccfraud.md](./docs/real-world-examples/ccfraud.md) |
 
-### Documentation
+### Documentação
 
 Please find a full documentation of this project [**here**](docs/README.md).
 
