@@ -33,7 +33,7 @@ Please find a full documentation of this project [**here**](docs/README.md).
 
 ### Precisa de suporte?
 
-Please check the [**troubleshooting guide**](./docs/tsg.md) for possible solutions. If you are unable to find a solution, please open an issue in this repository.
+Verifique o [**guia de solução de problemas**](./docs/tsg.md) para possíveis soluções. Se você não conseguir encontrar uma solução, abra um problema neste repositório.
 
 If you have any feature requests, technical questions, or find any bugs, please do not hesitate to reach out to us.
 
