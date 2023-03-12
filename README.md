@@ -29,7 +29,7 @@ Verifique também nossos casos de uso do setor abaixo.
 
 ### Documentação
 
-Please find a full documentation of this project [**here**](docs/README.md).
+Encontre a documentação completa deste projeto [**aqui**](docs/README.md).
 
 ### Precisa de suporte?
 
