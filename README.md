@@ -41,7 +41,7 @@ For bug reports and feature requests, you are welcome to open an [**issue**](htt
 
 ### Contribuindo
 
-This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Este projeto aceita contribuições e sugestões. A maioria das contribuições exige que você concorde com um Contrato de Licença de Contribuidor (CLA) declarando que você tem o direito de, e realmente nos concede, os direitos de usar sua contribuição. Para obter detalhes, visite https://cla.opensource.microsoft.com.
 
 To contribute, please start by creating a self-assigned [**issue**](https://github.com/Azure-Samples/azure-ml-federated-learning/issues/new) giving a high-level overview of what you'd like to do. Once any discussion there concludes, follow up with a PR.
 
