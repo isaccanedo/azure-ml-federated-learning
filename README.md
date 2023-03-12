@@ -43,8 +43,8 @@ For bug reports and feature requests, you are welcome to open an [**issue**](htt
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-To contribute, please start by creating a self-assigned [**issue**](https://github.com/Azure-Samples/azure-ml-federated-learning/issues/new) giving a high-level overview of what you'd like to do. Once any discussion there concludes, follow up with a PR.
+Para contribuir, comece criando um [**problema**] autoatribuído (https://github.com/Azure-Samples/azure-ml-federated-learning/issues/new) fornecendo uma visão geral de alto nível o que você gostaria de fazer. Depois que qualquer discussão for concluída, faça o acompanhamento com um PR.
 
-Please send an email to aims-team@microsoft.com to request a "contributor" access to this repository, if you have difficulty in creating a branch. When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+Por favor, envie um e-mail para aim-team@microsoft.com para solicitar um acesso de "colaborador" a este repositório, caso tenha dificuldade em criar uma ramificação. Quando você envia uma solicitação pull, um bot CLA determinará automaticamente se você precisa fornecer um CLA e decorar o PR adequadamente (por exemplo, verificação de status, comentário). Basta seguir as instruções fornecidas pelo bot. Você só precisará fazer isso uma vez em todos os repositórios usando nosso CLA.
 
-This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
+Este projeto adotou o Código de Conduta de Código Aberto da Microsoft. Para obter mais informações, consulte as Perguntas frequentes sobre o Código de Conduta ou entre em contato com opencode@microsoft.com para fazer perguntas ou comentários adicionais.
