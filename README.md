@@ -9,10 +9,10 @@ Este repositório fornece alguns exemplos de código para executar um pipeline d
 
 ## Índice
 
-- [Getting started](#zap-getting-started)
-- [Documentation](#documentation)
-- [Support](#need-support)
-- [Contributing](#contributing)
+- [Primeiros passos](#zap-getting-started)
+- [Documentação](#documentação)
+- [Suporte](#precisa de suporte)
+- [Contribuindo](#contribuindo)
 
 ### :zap: Começando
 
